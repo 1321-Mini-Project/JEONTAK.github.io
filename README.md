@@ -1,3 +1,1 @@
-# JEONTAK.github.io
-
-## [Link](https://jeontak.github.io/)
+# [JEONTAK.github.io](https://jeontak.github.io/)
